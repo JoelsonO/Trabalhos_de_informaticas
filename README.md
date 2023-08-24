@@ -1,2 +1,5 @@
 # Trabalhos_de_informaticas
-Formação: Técnico em Edificações no Cephas, Técnico em Automação Indutrial no IFSP, cursando Gestão de Produçâo Industrial na Fatec
+Técnico de automçao industrial no IFSP.
+Técnico em Edificações no Cephas.
+Cursando Gestão da Produção Industrial na Fatec.
+linkedin: https//www.linkedin.com/in/joelsonsantosdeoliveira
